@@ -1,1 +1,2 @@
 Line1 Clone2_of_FirstRepo
+Line 2 in Clone 2 
